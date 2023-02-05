@@ -1,0 +1,8 @@
+channels==4.0.0
+Django==4.1.4
+djangorestframework==3.14.0
+itemadapter==0.7.0
+requests==2.22.0
+Scrapy==2.7.1
+scrapy_djangoitem==1.1.1
+Twisted==22.10.0
